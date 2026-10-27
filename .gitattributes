@@ -1,0 +1,7 @@
+# 统一换行符，避免 Windows 开发者提交 CRLF 造成的 diff 噪音
+* text=auto eol=lf
+
+*.ico   binary
+*.png   binary
+*.exe   binary
+*.zip   binary
