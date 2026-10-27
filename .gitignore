@@ -1,0 +1,15 @@
+# 构建产物
+dist/
+*.exe
+*.zip
+
+# Visual Studio / 临时
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# 调试
+*.pdb
+*.log
